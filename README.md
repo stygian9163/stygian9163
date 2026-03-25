@@ -1,12 +1,12 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:C9A84C&height=200&section=header&text=waleed%20tariq&fontSize=52&fontColor=C9A84C&fontAlignY=38&desc=quant%20%7C%20builder%20%7C%20somewhere%20between%20a%20proof%20and%20a%20metaphor&descAlignY=58&descColor=a0a0b0&animation=fadeIn&fontFamily=Georgia" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:00D4C8&height=200&section=header&text=waleed%20tariq&fontSize=52&fontColor=00D4C8&fontAlignY=38&desc=quant%20%7C%20builder%20%7C%20somewhere%20between%20a%20proof%20and%20a%20metaphor&descAlignY=58&descColor=a0a0b0&animation=fadeIn&fontFamily=Georgia" width="100%"/>
 </div>
 
 <br>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=EB+Garamond&size=24&duration=4000&pause=1500&color=C9A84C&center=true&vCenter=true&multiline=false&width=650&lines=markets+are+poetry+with+prices.;the+signal+hides+inside+the+noise.;i+build+things+that+find+it.;fortis+capital+%E2%80%94+systems+that+survive.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=EB+Garamond&size=24&duration=4000&pause=1500&color=00D4C8&center=true&vCenter=true&multiline=false&width=650&lines=markets+are+poetry+with+prices.;the+signal+hides+inside+the+noise.;i+build+things+that+find+it.;fortis+capital+%E2%80%94+systems+that+survive.)](https://git.io/typing-svg)
 
 </div>
 
@@ -49,14 +49,14 @@ An AI-driven asset management platform — built from scratch.
 
 <br>
 
-![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=C9A84C)
-![PyTorch](https://img.shields.io/badge/PyTorch-0d0d0d?style=for-the-badge&logo=pytorch&logoColor=C9A84C)
-![NumPy](https://img.shields.io/badge/NumPy-0d0d0d?style=for-the-badge&logo=numpy&logoColor=C9A84C)
-![Pandas](https://img.shields.io/badge/Pandas-0d0d0d?style=for-the-badge&logo=pandas&logoColor=C9A84C)
-![Scikit](https://img.shields.io/badge/Sklearn-0d0d0d?style=for-the-badge&logo=scikit-learn&logoColor=C9A84C)
-![C](https://img.shields.io/badge/C-0d0d0d?style=for-the-badge&logo=c&logoColor=C9A84C)
-![Dart](https://img.shields.io/badge/Dart-0d0d0d?style=for-the-badge&logo=dart&logoColor=C9A84C)
-![Linux](https://img.shields.io/badge/Linux-0d0d0d?style=for-the-badge&logo=linux&logoColor=C9A84C)
+![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=00D4C8)
+![PyTorch](https://img.shields.io/badge/PyTorch-0d0d0d?style=for-the-badge&logo=pytorch&logoColor=00D4C8)
+![NumPy](https://img.shields.io/badge/NumPy-0d0d0d?style=for-the-badge&logo=numpy&logoColor=00D4C8)
+![Pandas](https://img.shields.io/badge/Pandas-0d0d0d?style=for-the-badge&logo=pandas&logoColor=00D4C8)
+![Scikit](https://img.shields.io/badge/Sklearn-0d0d0d?style=for-the-badge&logo=scikit-learn&logoColor=00D4C8)
+![C](https://img.shields.io/badge/C-0d0d0d?style=for-the-badge&logo=c&logoColor=00D4C8)
+![Dart](https://img.shields.io/badge/Dart-0d0d0d?style=for-the-badge&logo=dart&logoColor=00D4C8)
+![Linux](https://img.shields.io/badge/Linux-0d0d0d?style=for-the-badge&logo=linux&logoColor=00D4C8)
 
 </td>
 </tr>
@@ -68,9 +68,9 @@ An AI-driven asset management platform — built from scratch.
 
 ### ◈ &nbsp;GitHub Stats
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=waleedtariq&show_icons=true&theme=transparent&title_color=C9A84C&icon_color=C9A84C&text_color=c0c0c0&border_color=2a2a3e&hide_border=false&count_private=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=waleedtariq&show_icons=true&theme=transparent&title_color=00D4C8&icon_color=00D4C8&text_color=b0c4c3&border_color=2a2a3e&hide_border=false&count_private=true"/>
 &nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waleedtariq&layout=compact&theme=transparent&title_color=C9A84C&text_color=c0c0c0&border_color=2a2a3e&hide_border=false&langs_count=6"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waleedtariq&layout=compact&theme=transparent&title_color=00D4C8&text_color=b0c4c3&border_color=2a2a3e&hide_border=false&langs_count=6"/>
 
 </div>
 
@@ -80,7 +80,7 @@ An AI-driven asset management platform — built from scratch.
 
 ### 〰 &nbsp;Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=waleedtariq&bg_color=0d0d0d&color=C9A84C&line=C9A84C&point=ffffff&area=true&area_color=C9A84C&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=waleedtariq&bg_color=0d0d0d&color=00D4C8&line=00D4C8&point=ffffff&area=true&area_color=00D4C8&hide_border=true" width="95%"/>
 
 </div>
 
@@ -107,10 +107,10 @@ An AI-driven asset management platform — built from scratch.
 
 <br>
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=waleedtariq.waleedtariq&color=C9A84C&labelColor=0d0d0d&label=observers)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=waleedtariq.waleedtariq&color=00D4C8&labelColor=0d0d0d&label=observers)
 
 </div>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C9A84C,50:1a1a2e,100:0d0d0d&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4C8,50:1a1a2e,100:0d0d0d&height=120&section=footer" width="100%"/>
